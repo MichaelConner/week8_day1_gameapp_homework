@@ -7,7 +7,7 @@
 3/. gamesRouter establishes the restful actions for the particular data set (in this case 'games').
 
 
-4/. 
+4/. Restful actions - PubSub triggers in the model file (games.js)
 
 
 5/. init - an object that contains any additional custom settings that you want to apply. In this app it calls specific restful actions (POST and DELETE) and related info (i.e payloads and JSON translation requests).
